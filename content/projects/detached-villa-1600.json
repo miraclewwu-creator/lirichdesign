@@ -1,0 +1,70 @@
+{
+  "slug": "detached-villa-1600",
+  "title": "LA CADIERE 16E",
+  "listTitle": "Detached villa",
+  "area": "1600㎡",
+  "subtitle": "Nature is the rarest.",
+  "category": "Private Villa",
+  "location": "Chengdu, Sichuan, China",
+  "year": "2025",
+  "cover": "assets/projects/detached-villa-1600/微信图片_20260827172443_10_27.jpg.webp",
+  "hero": "assets/projects/detached-villa-1600/男主人书房.jpg.webp",
+  "heroAlt": "Sculptural marble bathroom in Detached Villa 1600㎡",
+  "description": "",
+  "designer": "LIRICH STUDIO",
+  "photography": "LIRICH STUDIO",
+  "scope": [
+    "Interior Architecture",
+    "FF&E & Procurement",
+    "Furniture & Lighting",
+    "Art Curation"
+  ],
+  "published": true,
+  "gallery": [
+    {
+      "src": "assets/projects/detached-villa-1600/微信图片_20260827172451_11_27.jpg.webp",
+      "alt": "微信图片_20260827172451_11_27",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/detached-villa-1600/微信图片_20260827172443_10_27.jpg.webp",
+      "alt": "微信图片_20260827172443_10_27",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/detached-villa-1600/男主人书房.jpg.webp",
+      "alt": "男主人书房",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1600/客厅.jpg.webp",
+      "alt": "客厅",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1600/主卧-方案一.jpg.webp",
+      "alt": "主卧-方案一",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1600/餐厅.jpg.webp",
+      "alt": "餐厅",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1600/女儿房.jpg.webp",
+      "alt": "女儿房",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1600/女主人书房.jpg.webp",
+      "alt": "女主人书房",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1600/起居室.jpg.webp",
+      "alt": "起居室",
+      "layout": "wide"
+    }
+  ]
+}

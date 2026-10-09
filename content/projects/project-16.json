@@ -1,0 +1,156 @@
+{
+  "slug": "project-16",
+  "title": "Chenxing Office",
+  "listTitle": "Company Office",
+  "area": "2200㎡",
+  "subtitle": "Looking forward to your surprise",
+  "category": "Workplace",
+  "location": "Chengdu, Sichuan, China",
+  "year": "2026",
+  "cover": "assets/projects/project-16/db94e0f97c4434a5ec333bda72cdc45a1656014325f50ba3bc32249f5d28a14c.jpg.webp",
+  "hero": "assets/projects/project-16/图片33.png.webp",
+  "heroAlt": "Project 16 project",
+  "description": "",
+  "designer": "LIRICH STUDIO",
+  "photography": "LIRICH STUDIO",
+  "scope": [
+    "Architecture",
+    "Interior",
+    "FF&E & Procurement",
+    "Furniture & Lighting",
+    "Art Curation"
+  ],
+  "published": true,
+  "gallery": [
+    {
+      "src": "assets/projects/project-16/db94e0f97c4434a5ec333bda72cdc45a1656014325f50ba3bc32249f5d28a14c.jpg.webp",
+      "alt": "db94e0f97c4434a5ec333bda72cdc45a1656014325f50ba3bc32249f5d28a14c",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片34.png.webp",
+      "alt": "图片34",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片.png.webp",
+      "alt": "图片",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片30.png.webp",
+      "alt": "图片30",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/入口正立面白天.png.webp",
+      "alt": "入口正立面白天",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/入口正立面夜景.png.webp",
+      "alt": "入口正立面夜景",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片31.png.webp",
+      "alt": "图片31",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片32.png.webp",
+      "alt": "图片32",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片33.png.webp",
+      "alt": "图片33",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片35.png.webp",
+      "alt": "图片35",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片38.png.webp",
+      "alt": "图片38",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片37.png.webp",
+      "alt": "图片37",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片36.png.webp",
+      "alt": "图片36",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片39.png.webp",
+      "alt": "图片39",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片40.png.webp",
+      "alt": "图片40",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片50.png.webp",
+      "alt": "图片50",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片51.png.webp",
+      "alt": "图片51",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片42.png.webp",
+      "alt": "图片42",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片43.png.webp",
+      "alt": "图片43",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片44.png.webp",
+      "alt": "图片44",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片45.png.webp",
+      "alt": "图片45",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片41.png.webp",
+      "alt": "图片41",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片46.png.webp",
+      "alt": "图片46",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片49.png.webp",
+      "alt": "图片49",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-16/图片47.png.webp",
+      "alt": "图片47",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-16/图片48.png.webp",
+      "alt": "图片48",
+      "layout": "pair"
+    }
+  ]
+}

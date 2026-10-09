@@ -1,0 +1,81 @@
+{
+  "slug": "project-11",
+  "title": "Michelin Restaurants",
+  "listTitle": "Michelin Restaurants ｜ Beijing",
+  "area": "1800㎡",
+  "subtitle": "The Gene of Hospitality",
+  "category": "Restaurants",
+  "location": "Yintai Centre, Beijing,China",
+  "year": "2006",
+  "cover": "assets/projects/project-11/截屏2026-08-27-11.50.05.png.webp",
+  "hero": "assets/projects/project-11/截屏2026-08-27-11.49.09.png.webp",
+  "heroAlt": "Project 11 project",
+  "description": "",
+  "designer": "LIRICH STUDIO",
+  "photography": "LIRICH STUDIO",
+  "scope": [
+    "Interior Design",
+    "FF&E",
+    "Furniture",
+    "Bespoke",
+    "Antiques and Art"
+  ],
+  "published": true,
+  "gallery": [
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.50.14.png.webp",
+      "alt": "截屏2026-08-27 11.50.14",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.50.05.png.webp",
+      "alt": "截屏2026-08-27 11.50.05",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.49.58.png.webp",
+      "alt": "截屏2026-08-27 11.49.58",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-12.34.46.png.webp",
+      "alt": "截屏2026-08-27 12.34.46",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.49.48.png.webp",
+      "alt": "截屏2026-08-27 11.49.48",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.49.40.png.webp",
+      "alt": "截屏2026-08-27 11.49.40",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.49.32.png.webp",
+      "alt": "截屏2026-08-27 11.49.32",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.49.25.png.webp",
+      "alt": "截屏2026-08-27 11.49.25",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.49.16.png.webp",
+      "alt": "截屏2026-08-27 11.49.16",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.49.09.png.webp",
+      "alt": "截屏2026-08-27 11.49.09",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-11/截屏2026-08-27-11.48.52.png.webp",
+      "alt": "截屏2026-08-27 11.48.52",
+      "layout": "pair"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "projects": [
+    {
+      "slug": "private-office-500",
+      "title": "Private Office",
+      "area": "500㎡",
+      "category": "Workplace",
+      "cover": "assets/images/project-01-dsc00864.jpg.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "project-16",
+      "title": "Company Office",
+      "area": "2200㎡",
+      "category": "Workplace",
+      "cover": "assets/projects/project-16/db94e0f97c4434a5ec333bda72cdc45a1656014325f50ba3bc32249f5d28a14c.jpg.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "detached-villa-3000",
+      "title": "Detached Villa",
+      "area": "3000㎡",
+      "category": "Private Villa",
+      "cover": "assets/projects/detached-villa-3000/b0799bc4br1036a56c0d959fb4ebcf1c.jpg.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "detached-villa-1600",
+      "title": "Detached villa",
+      "area": "1600㎡",
+      "category": "Private Villa",
+      "cover": "assets/projects/detached-villa-1600/微信图片_20260827172443_10_27.jpg.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "detached-villa-1300",
+      "title": "Detached Villa",
+      "area": "1300㎡",
+      "category": "Private Villa",
+      "cover": "assets/projects/detached-villa-1300/图片11.png.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "detached-villa-1500",
+      "title": "Detached Villa",
+      "area": "1500㎡",
+      "category": "Private Villa",
+      "cover": "assets/projects/detached-villa-1500/图片1.png.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "project-13",
+      "title": "Private Luxury Residence",
+      "area": "290㎡",
+      "category": "Residential",
+      "cover": "assets/projects/project-13/客餐厅C1.jpg.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "project-12",
+      "title": "Private Luxury Residence",
+      "area": "300㎡",
+      "category": "Residential",
+      "cover": "assets/projects/project-12/126A4376.jpg.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "project-15",
+      "title": "Michelin Restaurants ｜ Beijing",
+      "area": "1800㎡",
+      "category": "Restaurants",
+      "cover": "assets/projects/project-15/形在建筑空间摄影-36.jpg.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "kunming-ramada-hotel",
+      "title": "Chinese Hot Pot Restaurant",
+      "area": "1700㎡",
+      "category": "Restaurants",
+      "cover": "assets/projects/kunming-ramada-hotel/DSCF4282.jpg.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "project-11",
+      "title": "Michelin Restaurants ｜ Beijing",
+      "area": "1800㎡",
+      "category": "Restaurants",
+      "cover": "assets/projects/project-11/截屏2026-08-27-11.50.05.png.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "yajiang-matsutake-hotel",
+      "title": "Yajiang Matsutake Hotel",
+      "area": "21000㎡",
+      "category": "Hotels",
+      "cover": "assets/projects/yajiang-matsutake-hotel/111.png.webp",
+      "published": true,
+      "hasDetail": true
+    },
+    {
+      "slug": "cambodia-sihanoukville-hotel",
+      "title": "State-owned enterprise headquarters",
+      "area": "2200㎡",
+      "category": "Workplace",
+      "cover": "assets/projects/cambodia-sihanoukville-hotel/bce8938a2c712b460117aa45fa9f811.jpg.webp",
+      "published": true,
+      "hasDetail": true
+    }
+  ]
+}

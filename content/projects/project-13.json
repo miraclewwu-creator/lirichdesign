@@ -1,0 +1,87 @@
+{
+  "slug": "project-13",
+  "title": "Financial Island",
+  "listTitle": "Private Luxury Residence",
+  "area": "290㎡",
+  "subtitle": "Witnessing Love",
+  "category": "Residential",
+  "location": "Chengdu, Sichuan, China",
+  "year": "2025",
+  "cover": "assets/projects/project-13/客餐厅C1.jpg.webp",
+  "hero": "assets/projects/project-13/客餐厅C2.jpg.webp",
+  "heroAlt": "Project 13 project",
+  "description": "",
+  "designer": "LIRICH STUDIO",
+  "photography": "LIRICH STUDIO",
+  "scope": [
+    "Interior",
+    "Residential",
+    "Hospitality",
+    "Furniture",
+    "Bespoke",
+    "Antiques and Art"
+  ],
+  "published": true,
+  "gallery": [
+    {
+      "src": "assets/projects/project-13/儿童房书房-TD.jpg.webp",
+      "alt": "儿童房书房-TD",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-13/儿童房书房.jpg.webp",
+      "alt": "儿童房书房",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-13/客餐厅C2.jpg.webp",
+      "alt": "客餐厅C2",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-13/衣帽间TD01.jpg.webp",
+      "alt": "衣帽间TD01",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-13/衣帽间.jpg.webp",
+      "alt": "衣帽间",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-13/客餐厅C1.jpg.webp",
+      "alt": "客餐厅C1",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-13/主卧.jpg.webp",
+      "alt": "主卧",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-13/主卫-TD.jpg.webp",
+      "alt": "主卫-TD",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-13/主卫.jpg.webp",
+      "alt": "主卫",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-13/儿童房卧室.jpg.webp",
+      "alt": "儿童房卧室",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-13/儿童房卫生间-TD.jpg.webp",
+      "alt": "儿童房卫生间-TD",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-13/儿童房卫生间.jpg.webp",
+      "alt": "儿童房卫生间",
+      "layout": "pair"
+    }
+  ]
+}

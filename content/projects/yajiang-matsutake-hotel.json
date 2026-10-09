@@ -1,0 +1,56 @@
+{
+  "slug": "yajiang-matsutake-hotel",
+  "title": "Matsutake Hotel",
+  "listTitle": "Yajiang Matsutake Hotel",
+  "area": "21000㎡",
+  "subtitle": "Born in the forest",
+  "category": "Hotels",
+  "location": "Yajiang, Sichuan, China",
+  "year": "2022",
+  "cover": "assets/projects/yajiang-matsutake-hotel/111.png.webp",
+  "hero": "assets/projects/yajiang-matsutake-hotel/111.png.webp",
+  "heroAlt": "Yajiang Matsutake Hotel project",
+  "description": "",
+  "designer": "LIRICH STUDIO",
+  "photography": "LIRICH STUDIO",
+  "scope": [
+    "Architecture",
+    "Interior",
+    "FF&E & Procurement",
+    "Furniture & Lighting",
+    "Art Curation"
+  ],
+  "published": true,
+  "gallery": [
+    {
+      "src": "assets/projects/yajiang-matsutake-hotel/111.png.webp",
+      "alt": "111",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/yajiang-matsutake-hotel/121.png.webp",
+      "alt": "121",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/yajiang-matsutake-hotel/115.png.webp",
+      "alt": "115",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/yajiang-matsutake-hotel/114.png.webp",
+      "alt": "114",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/yajiang-matsutake-hotel/113.png.webp",
+      "alt": "113",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/yajiang-matsutake-hotel/112.png.webp",
+      "alt": "112",
+      "layout": "wide"
+    }
+  ]
+}

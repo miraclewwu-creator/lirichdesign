@@ -1,0 +1,57 @@
+{
+  "slug": "detached-villa-1500",
+  "title": "LA CADIERE 15B",
+  "listTitle": "Detached Villa",
+  "area": "1500㎡",
+  "subtitle": "Marble Marble Marble",
+  "category": "Private Villa",
+  "location": "Chengdu, Sichuan, China",
+  "year": "2023",
+  "cover": "assets/projects/detached-villa-1500/图片1.png.webp",
+  "hero": "assets/projects/detached-villa-1500/图片2.png.webp",
+  "heroAlt": "Detached villa project",
+  "description": "",
+  "designer": "LIRICH STUDIO",
+  "photography": "LIRICH STUDIO",
+  "scope": [
+    "Interior",
+    "Hospitality",
+    "Furniture",
+    "Bespoke",
+    "Antiques and Art",
+    "FF&E"
+  ],
+  "published": true,
+  "gallery": [
+    {
+      "src": "assets/projects/detached-villa-1500/图片1.png.webp",
+      "alt": "图片1",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/detached-villa-1500/图片5.png.webp",
+      "alt": "图片5",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/detached-villa-1500/图片.png.webp",
+      "alt": "图片",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1500/图片3.png.webp",
+      "alt": "图片3",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1500/图片4.png.webp",
+      "alt": "图片4",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1500/图片2.png.webp",
+      "alt": "图片2",
+      "layout": "wide"
+    }
+  ]
+}
