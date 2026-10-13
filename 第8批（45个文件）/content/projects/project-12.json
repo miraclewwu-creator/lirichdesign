@@ -1,0 +1,122 @@
+{
+  "slug": "project-12",
+  "title": "NEW HOPE     D10",
+  "listTitle": "Private Luxury Residence",
+  "area": "300㎡",
+  "subtitle": "Luxury Hospitality Personal",
+  "category": "Residential",
+  "location": "Chengdu, Sichuan, China",
+  "year": "2024",
+  "cover": "assets/projects/project-12/126A4376.jpg.webp",
+  "hero": "assets/projects/project-12/126A4198.jpg.webp",
+  "heroAlt": "Project 12 project",
+  "description": "",
+  "designer": "LIRICH STUDIO",
+  "photography": "LIRICH STUDIO",
+  "scope": [
+    "Interior",
+    "Residential",
+    "Hospitality",
+    "Furniture",
+    "Bespoke",
+    "Antiques and Art"
+  ],
+  "published": true,
+  "gallery": [
+    {
+      "src": "assets/projects/project-12/126A4296.jpg.webp",
+      "alt": "126A4296",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4222.jpg.webp",
+      "alt": "126A4222",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4386-2.jpg.webp",
+      "alt": "126A4386",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-12/126A4009.jpg.webp",
+      "alt": "126A4009",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A3990.jpg.webp",
+      "alt": "126A3990",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4127.jpg.webp",
+      "alt": "126A4127",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4147.jpg.webp",
+      "alt": "126A4147",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4198.jpg.webp",
+      "alt": "126A4198",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-12/126A4263.jpg.webp",
+      "alt": "126A4263",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4246.jpg.webp",
+      "alt": "126A4246",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4213.jpg.webp",
+      "alt": "126A4213",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-12/126A3999.jpg.webp",
+      "alt": "126A3999",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A3971.jpg.webp",
+      "alt": "126A3971",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4206.jpg.webp",
+      "alt": "126A4206",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/project-12/126A4176.jpg.webp",
+      "alt": "126A4176",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A3744.jpg.webp",
+      "alt": "126A3744",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4376.jpg.webp",
+      "alt": "126A4376",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4306.jpg.webp",
+      "alt": "126A4306",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/project-12/126A4178.jpg.webp",
+      "alt": "126A4178",
+      "layout": "wide"
+    }
+  ]
+}

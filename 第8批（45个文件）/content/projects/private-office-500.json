@@ -1,0 +1,171 @@
+{
+  "slug": "private-office-500",
+  "title": "Private Office",
+  "listTitle": "Private Office",
+  "area": "500㎡",
+  "subtitle": "We design hospitality",
+  "category": "Workplace",
+  "location": "Chengdu, Sichuan, China",
+  "year": "2025",
+  "cover": "assets/images/project-01-dsc00864.jpg.webp",
+  "hero": "assets/projects/private-office-500/IMG_8409.jpg.webp",
+  "heroAlt": "Private Office project",
+  "description": "",
+  "designer": "LIRICH STUDIO",
+  "photography": "LIRICH STUDIO",
+  "scope": [
+    "Interior",
+    "Hospitality",
+    "Furniture",
+    "Bespoke",
+    "Antiques and Art"
+  ],
+  "published": true,
+  "gallery": [
+    {
+      "src": "assets/images/project-01-dsc00864.jpg.webp",
+      "alt": "Private Office project",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00867.jpg.webp",
+      "alt": "DSC00867",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/IMG_8409.jpg.webp",
+      "alt": "IMG_8409",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00865.jpg.webp",
+      "alt": "DSC00865",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00862.jpg.webp",
+      "alt": "DSC00862",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00832.jpg.webp",
+      "alt": "DSC00832",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00831.jpg.webp",
+      "alt": "DSC00831",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00830.jpg.webp",
+      "alt": "DSC00830",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00828.jpg.webp",
+      "alt": "DSC00828",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00811_1.jpg.webp",
+      "alt": "DSC00811_1",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00804.jpg.webp",
+      "alt": "DSC00804",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00803.jpg.webp",
+      "alt": "DSC00803",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00812.jpg.webp",
+      "alt": "DSC00812",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00814.jpg.webp",
+      "alt": "DSC00814",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00815.jpg.webp",
+      "alt": "DSC00815",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00817.jpg.webp",
+      "alt": "DSC00817",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00861.jpg.webp",
+      "alt": "DSC00861",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00859.jpg.webp",
+      "alt": "DSC00859",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00855.jpg.webp",
+      "alt": "DSC00855",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00850.jpg.webp",
+      "alt": "DSC00850",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00821.jpg.webp",
+      "alt": "DSC00821",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00846.jpg.webp",
+      "alt": "DSC00846",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00838.jpg.webp",
+      "alt": "DSC00838",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00822.jpg.webp",
+      "alt": "DSC00822",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/IMG_9219.jpg.webp",
+      "alt": "IMG_9219",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00723.jpg.webp",
+      "alt": "DSC00723",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00720.jpg.webp",
+      "alt": "DSC00720",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00701.jpg.webp",
+      "alt": "DSC00701",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/private-office-500/DSC00820-2.jpg.webp",
+      "alt": "DSC00820",
+      "layout": "pair"
+    }
+  ]
+}

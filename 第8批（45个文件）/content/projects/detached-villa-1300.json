@@ -1,0 +1,66 @@
+{
+  "slug": "detached-villa-1300",
+  "title": "LA CADIERE 13A",
+  "listTitle": "Detached Villa",
+  "area": "1300㎡",
+  "subtitle": "Life Is Full Of Color",
+  "category": "Private Villa",
+  "location": "Chengdu, Sichuan, China",
+  "year": "2024",
+  "cover": "assets/projects/detached-villa-1300/图片11.png.webp",
+  "hero": "assets/projects/detached-villa-1300/图片17.png.webp",
+  "heroAlt": "Detached villa project",
+  "description": "",
+  "designer": "LIRICH STUDIO",
+  "photography": "LIRICH STUDIO",
+  "scope": [
+    "Interior",
+    "Hospitality",
+    "Furniture",
+    "Bespoke",
+    "Antiques and Art"
+  ],
+  "published": true,
+  "gallery": [
+    {
+      "src": "assets/projects/detached-villa-1300/图片11.png.webp",
+      "alt": "图片11",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/detached-villa-1300/图片12.png.webp",
+      "alt": "图片12",
+      "layout": "pair"
+    },
+    {
+      "src": "assets/projects/detached-villa-1300/图片17.png.webp",
+      "alt": "图片17",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1300/图片13.png.webp",
+      "alt": "图片13",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1300/图片14.png.webp",
+      "alt": "图片14",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1300/图片15.png.webp",
+      "alt": "图片15",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1300/图片16.png.webp",
+      "alt": "图片16",
+      "layout": "wide"
+    },
+    {
+      "src": "assets/projects/detached-villa-1300/图片.png.webp",
+      "alt": "图片",
+      "layout": "wide"
+    }
+  ]
+}
