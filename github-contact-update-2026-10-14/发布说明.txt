@@ -1,0 +1,19 @@
+联系表单更新 — 2026-10-14
+
+将“上传到仓库”文件夹内的内容放入现有 GitHub Pages 发布仓库的根目录，覆盖同名文件：
+1. contact.html
+2. contact.js
+3. contact/index.html（保留 contact 文件夹层级）
+
+不要把“上传到仓库”文件夹本身作为一层目录上传。
+发布说明.txt 不需要上传。其他网站文件保留。
+
+适用于当前已编译的发布仓库 miraclewwu-creator/lirichdesign，使用现有 assets 文件。不是源代码仓库的构建包。
+
+功能：7 个字段必须完整填写，邮箱格式通过验证；点击 Prepare Email 打开默认邮件应用，收件人 info@lirichdesign.com，主题和正文自动填入，正文为文本表格。客户仍需在邮件应用点击发送。无需 SMTP、服务器或托管表单。
+
+发布后检查：
+访问 https://lirichdesign.com/contact.html 和 https://lirichdesign.com/contact/。
+空字段和无效邮箱不能打开邮件草稿。
+填写完整信息后，检查邮件收件人、主题和全部字段。
+草稿打开需要设备设置了默认邮件应用；网页不能确认邮件是否已发送。
