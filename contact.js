@@ -20,15 +20,16 @@ function createInquiryDraft(fields) {
     ['Subject', fields.subjectField],
     ['Message', fields.message],
   ];
-  const width = Math.max(...rows.map(([label]) => label.length));
-  const divider = '-'.repeat(width) + '-+--------------------------------';
   const body = [
-    'LIRICH STUDIO — Contact Inquiry', '', divider,
-    ...rows.flatMap(([label, value]) => [
-      ...value.replace(/\r\n?/g, '\n').split('\n').map((line, index) =>
-        `${(index === 0 ? label : '').padEnd(width)} | ${line}`),
-      divider,
-    ]),
+    'LIRICH STUDIO',
+    'Contact Inquiry',
+    '',
+    ...rows.map(([label, value]) => {
+      const content = value.replace(/\r\n?/g, '\n');
+      return label === 'Message' || content.includes('\n')
+        ? `${label}:\n${content}`
+        : `${label}: ${content}`;
+    }).join('\n\n').split('\n'),
   ].join('\r\n');
   const subject = `[${fields.inquiryType}] ${fields.subjectField.replace(/[\r\n]+/g, ' ')}`;
   return `mailto:info@lirichdesign.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
