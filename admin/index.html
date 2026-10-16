@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/lirich-favicon-32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/lirich-apple-touch-icon.png" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>项目素材管理 — LIRICH STUDIO</title>
+    <link rel="stylesheet" href="admin.css?v=5" />
+  </head>
+  <body>
+    <header class="admin-header">
+      <a class="brand" href="/projects.html">LIRICH STUDIO</a>
+      <div>
+        <a class="text-link" href="/furniture-admin/">家具素材</a>
+        <span class="local-badge">仅限本机</span>
+        <a class="text-link" href="/projects.html" target="_blank">查看网站 ↗</a>
+      </div>
+    </header>
+
+    <main class="admin-shell">
+      <aside class="project-sidebar">
+        <div class="sidebar-heading">
+          <div><p class="eyebrow">Content Manager</p><h1>项目素材</h1></div>
+          <button class="new-project-button" id="new-project" type="button">＋ 新增项目</button>
+        </div>
+        <p class="project-order-help" id="project-order-status" role="status">点击眼睛隐藏或恢复项目；拖动或用箭头调整顺序。</p>
+        <div class="project-list" id="project-list" aria-label="项目列表"></div>
+      </aside>
+
+      <section class="editor" aria-live="polite">
+        <div class="editor-empty" id="editor-empty">
+          <p>从左侧选择项目，或新建一个项目。</p>
+        </div>
+
+        <form id="project-form" hidden>
+          <div class="editor-topbar">
+            <div>
+              <p class="eyebrow">Project Editor</p>
+              <h2 id="editor-title">编辑项目</h2>
+              <p class="file-path" id="file-path"></p>
+            </div>
+            <div class="topbar-actions">
+              <a class="secondary-button" id="preview-project" href="#" target="_blank">预览页面 ↗</a>
+              <button class="primary-button" type="submit">保存修改</button>
+            </div>
+          </div>
+
+          <section class="panel">
+            <div class="panel-heading"><h3>基本信息</h3><label class="toggle"><input id="published" type="checkbox" /><span>网站显示</span></label></div>
+            <div class="fields-grid">
+              <label>项目网址标识<input id="slug" name="slug" required pattern="[a-z0-9][a-z0-9-]{0,79}" placeholder="detached-villa-1600" /></label>
+              <label>列表标题<input id="list-title" name="listTitle" placeholder="Detached villa" /></label>
+              <label>详情页标题<input id="title" name="title" required placeholder="Detached Villa" /></label>
+              <label>面积<input id="area" name="area" placeholder="1600㎡" /></label>
+              <label class="span-2">副标题<input id="subtitle" name="subtitle" placeholder="1600㎡ Private Residence" /></label>
+              <label>类别<input id="category" name="category" placeholder="Residential Interior" /></label>
+              <label>年份<input id="year" name="year" placeholder="2026" /></label>
+              <label class="span-2">地点<input id="location" name="location" placeholder="Chengdu, Sichuan, China" /></label>
+              <label>设计<input id="designer" name="designer" placeholder="LIRICH STUDIO" /></label>
+              <label>摄影<input id="photography" name="photography" placeholder="LIRICH STUDIO" /></label>
+              <label class="span-2">项目说明<textarea id="description" name="description" rows="5"></textarea></label>
+              <label class="span-2">项目范围（每行一项）<textarea id="scope" name="scope" rows="4" placeholder="Interior Architecture&#10;FF&E & Procurement"></textarea></label>
+            </div>
+          </section>
+
+          <section class="panel media-panel">
+            <div class="panel-heading media-heading">
+              <div><h3>图片与版式</h3><p>拖动或用箭头排序；“双图”会按相邻两张组成一行。</p></div>
+              <label class="upload-button">上传图片<input id="image-upload" type="file" accept="image/jpeg,image/png,image/webp,image/gif,image/avif" multiple /></label>
+            </div>
+            <div class="media-summary">
+              <span>封面：<strong id="cover-label">未设置</strong></span>
+              <span>首图：<strong id="hero-label">未设置</strong></span>
+            </div>
+            <div class="upload-progress" id="upload-progress" hidden></div>
+            <div class="gallery-editor" id="gallery-editor"></div>
+            <div class="gallery-empty" id="gallery-empty">还没有项目图片。点击“上传图片”开始添加。</div>
+          </section>
+
+          <div class="save-bar">
+            <p id="save-status" role="status"></p>
+            <button class="primary-button" type="submit">保存项目</button>
+          </div>
+        </form>
+      </section>
+    </main>
+
+    <dialog class="delete-dialog" id="delete-dialog" aria-labelledby="delete-dialog-title">
+      <form method="dialog">
+        <p class="eyebrow">可恢复删除</p>
+        <h2 id="delete-dialog-title">从网站移除这个项目？</h2>
+        <p id="delete-dialog-copy"></p>
+        <p class="delete-dialog-note">项目详情和原图会继续保留在本机内容库中，不会被永久删除。</p>
+        <div class="delete-dialog-actions">
+          <button class="secondary-button" type="submit" value="cancel">取消</button>
+          <button class="danger-button" id="confirm-delete" type="button">从网站移除</button>
+        </div>
+      </form>
+    </dialog>
+
+    <script type="module" src="admin.js?v=4"></script>
+  </body>
+</html>
